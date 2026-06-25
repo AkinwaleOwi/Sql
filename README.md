@@ -1,6 +1,6 @@
 # SQL Learning Repository
 
-## A structured repository for learning SQL from beginner to intermediate level through examples and exercises.
+## Goal: To be a structured repository for learning SQL from beginner to intermediate level through examples and exercises.
 
 ### This repository is designed to help build:
 

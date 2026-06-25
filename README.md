@@ -1,13 +1,22 @@
-SQL Learning Repository
+# SQL Learning Repository
 
-A structured repository for learning SQL from beginner to intermediate level through examples and exercises.
+## A structured repository for learning SQL from beginner to intermediate level through examples and exercises.
 
-This repository is designed to help build:
+### This repository is designed to help build:
 
-Database querying skills
-Confidence writing and reading SQL queries
+- Database querying skills
+- Confidence writing and reading SQL queries
 
 
+# Long-Term Goals
+
+- Write complex queries confidently
+- Analyze real-world datasets
+- Build reporting dashboards
+- Optimize slow queries
+- Be able to eat any SQL interviews
+  
+```text
 sql-learning/
 │
 ├── README.md
@@ -46,16 +55,8 @@ sql-learning/
 │   ├── single-line-comments.md
 │   ├── multi-line-comments.md
 ││
+```
 
-Long-Term Goals
+---
 
-Potential milestones:
 
-Write complex queries confidently
-Analyze real-world datasets
-Build reporting dashboards
-Optimize slow queries
-Prepare for SQL interviews
-Understand database architecture
-
-Future Additions:
